@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://www.ouralioth.top/sitemap.xml
-Sitemap: https://www.ouralioth.top/baidusitemap.xml
+Sitemap: https://www.ouralioth.com/sitemap.xml
+Sitemap: https://www.ouralioth.com/baidusitemap.xml
